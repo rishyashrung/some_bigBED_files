@@ -1,216 +1,224 @@
+track neoantigens
+shortLabel neoantigens
+longLabel ALL_neoantigens
+type bed
+visibility full
+bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/neoantigen.bed
+priority 1
+
 track ETV6_RUNX1_1
-shortLabel ETV6_RUNX1_1_transcript
+shortLabel ETV6_RUNX1_1
 longLabel ETV6_RUNX1_1_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/ETV6_RUNX1_1.transcripts.bb
-priority 1
+priority 2
 
 track ETV6_RUNX1_2
-shortLabel ETV6_RUNX1_2_transcript
+shortLabel ETV6_RUNX1_2
 longLabel ETV6_RUNX1_2_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/ETV6_RUNX1_2.transcripts.bb
-priority 2
+priority 3
 
 track ETV6_RUNX1_3
-shortLabel ETV6_RUNX1_3_transcript
+shortLabel ETV6_RUNX1_3
 longLabel ETV6_RUNX1_3_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/ETV6_RUNX1_3.transcripts.bb
-priority 3
+priority 4
 
 track ETV6_RUNX1_4
-shortLabel ETV6_RUNX1_4_transcript
+shortLabel ETV6_RUNX1_4
 longLabel ETV6_RUNX1_4_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/ETV6_RUNX1_4.transcripts.bb
-priority 4
+priority 5
 
 track ETV6_RUNX1_5
-shortLabel ETV6_RUNX1_5_transcript
+shortLabel ETV6_RUNX1_5
 longLabel ETV6_RUNX1_5_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/ETV6_RUNX1_5.transcripts.bb
-priority 5
+priority 6
 
 track ETV6_RUNX1_6
-shortLabel ETV6_RUNX1_6_transcript
+shortLabel ETV6_RUNX1_6
 longLabel ETV6_RUNX1_6_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/ETV6_RUNX1_6.transcripts.bb
-priority 6
+priority 7
 
 track ETV6_RUNX1_7
-shortLabel ETV6_RUNX1_7_transcript
+shortLabel ETV6_RUNX1_7
 longLabel ETV6_RUNX1_7_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/ETV6_RUNX1_7.transcripts.bb
-priority 7
+priority 8
 
 track ETV6_RUNX1_8
-shortLabel ETV6_RUNX1_8_transcript
+shortLabel ETV6_RUNX1_8
 longLabel ETV6_RUNX1_8_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/ETV6_RUNX1_8.transcripts.bb
-priority 8
+priority 9
 
 track ETV6_RUNX1_9
-shortLabel ETV6_RUNX1_9_transcript
+shortLabel ETV6_RUNX1_9
 longLabel ETV6_RUNX1_9_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/ETV6_RUNX1_9.transcripts.bb
-priority 9
+priority 10
 
 track HeH_1
-shortLabel HeH_1_transcript
+shortLabel HeH_1
 longLabel HeH_1_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_1.transcripts.bb
-priority 10
+priority 11
 
 track HeH_10
-shortLabel HeH_10_transcript
+shortLabel HeH_10
 longLabel HeH_10_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_10.transcripts.bb
-priority 11
+priority 12
 
 track HeH_11
-shortLabel HeH_11_transcript
+shortLabel HeH_11
 longLabel HeH_11_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_11.transcripts.bb
-priority 12
+priority 13
 
 track HeH_12
-shortLabel HeH_12_transcript
+shortLabel HeH_12
 longLabel HeH_12_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_12.transcripts.bb
-priority 13
+priority 14
 
 track HeH_13
-shortLabel HeH_13_transcript
+shortLabel HeH_13
 longLabel HeH_13_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_13.transcripts.bb
-priority 14
+priority 15
 
 track HeH_14
-shortLabel HeH_14_transcript
+shortLabel HeH_14
 longLabel HeH_14_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_14.transcripts.bb
-priority 15
+priority 16
 
 track HeH_15
-shortLabel HeH_15_transcript
+shortLabel HeH_15
 longLabel HeH_15_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_15.transcripts.bb
-priority 16
+priority 17
 
 track HeH_16
-shortLabel HeH_16_transcript
+shortLabel HeH_16
 longLabel HeH_16_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_16.transcripts.bb
-priority 17
+priority 18
 
 track HeH_17
-shortLabel HeH_17_transcript
+shortLabel HeH_17
 longLabel HeH_17_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_17.transcripts.bb
-priority 18
+priority 19
 
 track HeH_18
-shortLabel HeH_18_transcript
+shortLabel HeH_18
 longLabel HeH_18_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_18.transcripts.bb
-priority 19
+priority 20
 
 track HeH_2
-shortLabel HeH_2_transcript
+shortLabel HeH_2
 longLabel HeH_2_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_2.transcripts.bb
-priority 20
+priority 21
 
 track HeH_3
-shortLabel HeH_3_transcript
+shortLabel HeH_3
 longLabel HeH_3_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_3.transcripts.bb
-priority 21
+priority 22
 
 track HeH_4
-shortLabel HeH_4_transcript
+shortLabel HeH_4
 longLabel HeH_4_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_4.transcripts.bb
-priority 22
+priority 23
 
 track HeH_5
-shortLabel HeH_5_transcript
+shortLabel HeH_5
 longLabel HeH_5_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_5.transcripts.bb
-priority 23
+priority 24
 
 track HeH_6
-shortLabel HeH_6_transcript
+shortLabel HeH_6
 longLabel HeH_6_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_6.transcripts.bb
-priority 24
+priority 25
 
 track HeH_7
-shortLabel HeH_7_transcript
+shortLabel HeH_7
 longLabel HeH_7_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_7.transcripts.bb
-priority 25
+priority 26
 
 track HeH_8
-shortLabel HeH_8_transcript
+shortLabel HeH_8
 longLabel HeH_8_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_8.transcripts.bb
-priority 26
+priority 27
 
 track HeH_9
-shortLabel HeH_9_transcript
+shortLabel HeH_9
 longLabel HeH_9_stringtie_transcripts
 type bigBed 12
 visibility pack
 bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/HeH_9.transcripts.bb
-priority 27
+priority 28
 
