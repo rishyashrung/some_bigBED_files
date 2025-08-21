@@ -1,11 +1,3 @@
-track neoantigens
-shortLabel neoantigens
-longLabel ALL_neoantigens
-type bigBed 12
-visibility full
-bigDataUrl https://raw.githubusercontent.com/rishyashrung/some_bigBED_files/main/neoantigen.bb
-priority 1
-
 track ETV6_RUNX1_1
 shortLabel ETV6_RUNX1_1
 longLabel ETV6_RUNX1_1_stringtie_transcripts
