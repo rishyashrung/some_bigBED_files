@@ -1,0 +1,5 @@
+hub Kajsa_Paulsson_ALL_transcripts
+shortLabel ALL_transcripts
+longLabel Kajsa_Paulsson_ALL_transcripts
+genomesFile genomes.txt
+email kovi.govindarajan@ki.se
